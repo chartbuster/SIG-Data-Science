@@ -1,0 +1,4 @@
+this is a text file
+second line
+hello world
+python is cool
